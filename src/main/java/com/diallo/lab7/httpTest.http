@@ -1,0 +1,10 @@
+GET http://localhost:8080/adsweb/api/v1/patient/list
+Content-Type: application/json
+
+
+{
+
+}
+
+###
+
