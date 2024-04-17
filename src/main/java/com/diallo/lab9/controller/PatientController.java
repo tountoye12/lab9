@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("adsweb/api/v1/patient")
+@RequestMapping("adsweb/api/v1/patients")
 @Slf4j
 public class PatientController {
 
